@@ -1,0 +1,12 @@
+<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes">
+    <main>
+        <div class="header-wrapper">
+                
+                                    <div class="mobile-menu-quick-links">
+                                        <div class="mobile-menu-heading">Contact Us</div>
+                                
+                                    </div>
+            </div>               
+    </main>
+           
+</aura:component>	
